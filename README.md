@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mahimachoudhary
+- 👩‍💻 I’m interested in software development, UI/UX design, and Android app development
+- 🌱 I’m currently learning Kotlin, Firebase, and modern Android development using Jetpack
+- 🤝 I’m looking to collaborate on open-source Android projects and student tech initiatives
+- 📫 How to reach me: choudharymahima4075@gmail.com
+- 💬 Pronouns: She/Her
+- ⚡ Fun fact: I love designing intuitive user interfaces and exploring new mobile app trends!
