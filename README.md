@@ -41,7 +41,7 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mahimachoudhary19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 
